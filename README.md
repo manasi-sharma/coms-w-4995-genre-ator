@@ -1,5 +1,5 @@
 # coms-w-4995-genre-ator
-## Final Project -- Genre-ator: a Movie Genre Classification and Captioning System
+## Final Project -- Genre-ator: a Movie Poster Genre Classification and Captioning System
 
 This is the code for the Final Project of the COMS W 4995: Deep Learning for Computer Vision course at Columbia University (https://www.deeplearningforcomputervision.com/home/deep-learning-for-computer-vision) in Fall '20. For this project, I collaborated with Jetasri Gupta.
 
